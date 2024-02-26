@@ -1,1 +1,3 @@
 # Login-Form
+Experience a sleek and stylish login interface with this project built using HTML and CSS. The minimalist design, featuring a captivating background image and elegant form elements, offers users a seamless login experience. With responsive design, the form adapts effortlessly to different screen sizes, ensuring accessibility across devices. Enhance user interaction with intuitive input animations and convenient 'Remember Me' functionality. Ready to integrate into your web application, this login form project combines aesthetics with functionality for a polished user experience.
+![Screenshot (36)](https://github.com/Nishiii9420/Login-Form/assets/123353608/a233f0c0-ed00-4af7-bf0b-8bb9b2aa9b68)
